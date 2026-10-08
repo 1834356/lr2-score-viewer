@@ -1,0 +1,10 @@
+{
+  "database": "D:/LR2/LR2files/Database/Score/your-player.db",
+  "backupDirectory": "D:/BMSbackup",
+  "tableUrls": [
+    "https://stellabms.xyz/sl/table.html",
+    "https://stellabms.xyz/st/table.html",
+    "https://bms-ir.org/new/table/16",
+    "https://miraiscarlet.github.io/bms/table/genocide_insane/insane_bms.html"
+  ]
+}
