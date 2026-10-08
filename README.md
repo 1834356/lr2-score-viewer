@@ -56,7 +56,6 @@ git config user.email "自分のメールアドレス"
   "tableUrls": [
     "https://stellabms.xyz/sl/table.html",
     "https://stellabms.xyz/st/table.html",
-    "https://bms-ir.org/new/table/16",
     "https://miraiscarlet.github.io/bms/table/genocide_insane/insane_bms.html"
   ]
 }
@@ -64,7 +63,7 @@ git config user.email "自分のメールアドレス"
 
 - `database`: 使用しているLR2プレイヤーのスコアDB。通常は `LR2files/Database/Score/` 内の `.db` ファイルです。
 - `backupDirectory`: バックアップ先のフォルダ。存在しなければ自動作成します。OneDrive内のフォルダも指定できます。バックアップが不要なら、この項目を削除できます。
-- `tableUrls`: 表示したい難易度表のURL。初期設定はSatellite、Stella、Favorite、発狂BMS難易度表です。
+- `tableUrls`: 表示したい難易度表のURL。初期設定はSatellite、Stella、発狂BMS難易度表です。
 
 JSONのパスは例のように `/` で区切ると、そのまま記入できます。`\` を使う場合は `\\` と記入してください。最後の項目にはカンマを付けません。
 
